@@ -92,11 +92,11 @@ int main()
 }
 ```
 
-### Exercise 1.9
+### [Exercise 1.9](https://github.com/DevlogHB/Cpp-Primer/blob/main/ch.01/ex01_09.cpp)
 
-### Exercise 1.10
+### [Exercise 1.10](https://github.com/DevlogHB/Cpp-Primer/blob/main/ch.01/ex01_10.cpp)
 
-### Exercise 1.11
+### [Exercise 1.11](https://github.com/DevlogHB/Cpp-Primer/blob/main/ch.01/ex01_11.cpp)
 
 ### Exercise 1.12
 
